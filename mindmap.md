@@ -23,3 +23,21 @@
 - There are payment and shipping fees for sellers.
 - They have their own in-app payment service.
 - Logistics partners handle their delivery services.
+
+# Rangya
+
+## Listing of Items
+- Enye
+- Enye
+
+## Seller Fees
+- Enye
+- Enye
+
+## Payment Services
+- Enye
+- Enye
+
+# Delivery Services
+- Enye
+- Enye
