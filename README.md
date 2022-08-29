@@ -7,3 +7,6 @@ This repository will only be used for our team's project propsal in our SHNTREP.
 - Max Chavez
 - Airo Ravinera
 - Hanz Apo
+
+## Credits:
+Credits to https://github.com/startbootstrap/startbootstrap-new-age for the landing page.
