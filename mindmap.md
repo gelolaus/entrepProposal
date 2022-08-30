@@ -1,4 +1,4 @@
-# Online Marketplace for Sellers (by Seedly.sg)
+# Online Marketplaces (by Seedly.sg)
 
 ## Carousell
 - It's easy and requires no effort to list items.
@@ -27,17 +27,16 @@
 # Rangya
 
 ## Listing of Items
-- Enye
-- Enye
+- Sellers will only be allowed to sell high-stake collectibles to build the trust of buyers.
+- Sellers will have to provide their product's legitimacy through verification processes.
 
 ## Seller Fees
-- Enye
-- Enye
+- There are no seller fees.
 
 ## Payment Services
-- Enye
-- Enye
+- The seller will be given the chance to choose their preferred method of payment.
+- Meet, RangyaPay.
 
-# Delivery Services
-- Enye
-- Enye
+## Delivery Services
+- The seller and the buyer can discuss on their own their preferred delivery service.
+- The buyer can also choose their preferred logistic partner to handle their delivery service.
